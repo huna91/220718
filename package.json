@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/huna91/220718/issues"
   },
-  "homepage": "https://github.com/huna91/220718#readme"
+  "homepage": "https://github.com/huna91/220718#readme",
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-node": "^11.1.0",
+    "prettier": "^2.7.1"
+  }
 }
